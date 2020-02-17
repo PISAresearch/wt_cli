@@ -1,6 +1,6 @@
 # wt_cli
 
-`wt_cli` is a command line interface to interact with the Eye of Satoshi watchtower server, written in Python3.
+`wt_cli` is a command line interface to interact with the Eye of Satoshi watchtower, written in Python3.
 
 ## Dependencies
 Refer to [DEPENDENCIES.md](DEPENDENCIES.md)
