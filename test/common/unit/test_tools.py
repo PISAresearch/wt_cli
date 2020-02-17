@@ -3,7 +3,7 @@ import pytest
 import logging
 from copy import deepcopy
 
-from pisa import conf_fields
+from apps.cli import conf_fields
 
 from common.constants import LOCATOR_LEN_BYTES
 from common.tools import (
