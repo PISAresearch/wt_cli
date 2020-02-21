@@ -145,3 +145,15 @@ or
 ## the Eye of Satoshi's API	
 
 If you wish to read about the underlying API, and how to write your own tool to interact with it, refer to [tEOS-API.md](tEOS-API.md).
+
+## Are you reckless? Try me on mainnet
+Would you like to try me on `mainnet` instead of `testnet`? Add `-s https://mainnet.teos.pisa.watch` to your calls, for example:
+
+```
+python wt_cli.py -s https://teosmainnet.pisa.watch add_appointment -f dummy_appointment_data.json 
+```
+
+You can also change the config file to avoid having to specify the server every the time:
+
+`DEFAULT_PISA_API_SERVER = "https://teosmainnet.pisa.watch"`
+
