@@ -153,7 +153,7 @@ Would you like to try me on `mainnet` instead of `testnet`? Add `-s https://main
 python wt_cli.py -s https://teosmainnet.pisa.watch add_appointment -f dummy_appointment_data.json 
 ```
 
-You can also change the config file to avoid having to specify the server every the time:
+You can also change the config file to avoid specifying the server every time:
 
 `DEFAULT_PISA_API_SERVER = "https://teosmainnet.pisa.watch"`
 
