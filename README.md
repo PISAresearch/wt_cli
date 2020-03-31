@@ -1,3 +1,7 @@
+# WE MOVED!
+
+**YOU CAN FIND THE CODE FOR BOTH THE CLIENT AND SERVER SIDE AT** https://github.com/talaia-labs/python-teos
+
 # wt_cli
 
 `wt_cli` is a command line interface to interact with the Eye of Satoshi watchtower, written in Python3.
